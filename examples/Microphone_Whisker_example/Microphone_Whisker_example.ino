@@ -22,7 +22,7 @@
 #define SerialMonitorInterface SerialUSB
 #endif
 
-float micPin = A1; // use port 1
+float micPin = A0; // use port 0
 float value = 0.0;
 
 void setup() {
