@@ -1,7 +1,7 @@
 /*
-  TinyCircuits Microphone Whisker Example Sketch
-
-  This sketch simply reads the analog value output by the
+  TinyCircuits Microphone Wireling Example Sketch
+  
+  This sketch reads the analog value output by the
   microphone based on the volume of sound it receives. The
   best way to see data is via the Serial Plotter. A simple
   test can be done by speaking at a normal volume, clapping,
