@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Microphone
+# TinyCircuits Wireling Microphone
 # AST1030 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1030 Rev 1 PCB. This is a whisker board which features a  miniature, high performance, low power, top port silicon microphone, the SPW2430HR5H-B, that consists of an acoustic sensor, a low noise input buffer, and an output amplifier.  Ideal for portable sound recording of short samples.
+The design files are located under design_files/ for the TinyCircuits AST1030 Rev 1 PCB. This is a Wireling board which features a  miniature, high performance, low power, top port silicon microphone, the SPW2430HR5H-B, that consists of an acoustic sensor, a low noise input buffer, and an output amplifier.  Ideal for portable sound recording of short samples.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
