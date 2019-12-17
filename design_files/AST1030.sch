@@ -10626,7 +10626,7 @@
 <text x="63.5" y="68.58" size="1.778" layer="96">Non Populated: -</text>
 <text x="63.5" y="66.04" size="1.778" layer="96">Hand Populated: -</text>
 <text x="63.5" y="63.5" size="1.778" layer="96">Hand Soldered: -</text>
-<text x="63.5" y="71.12" size="1.778" layer="96">Variant: Standard</text>
+<text x="63.5" y="71.12" size="1.778" layer="96">Variant: Standard - R</text>
 <text x="63.5" y="60.96" size="1.778" layer="96">Notes: -</text>
 </plain>
 <instances>
